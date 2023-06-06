@@ -54,6 +54,6 @@ In conclusion, ChatGPT is a powerful communication tool that can efficiently ans
 
 > Further Readings:
 >
-> ChatGPT では 1 時間に何件質問できますか
+> [ChatGPT では 1 時間に何件質問できますか](https://docs.kanaries.net/ja/tutorials/ChatGPT/how-many-questions-can-you-ask-chatgpt-in-an-hour)
 >
-> 한 시간에 ChatGPT에 얼마나 많은 질문을 할 수 있습니까?
+> [한 시간에 ChatGPT에 얼마나 많은 질문을 할 수 있습니까?](https://docs.kanaries.net/ko/tutorials/ChatGPT/how-many-questions-can-you-ask-chatgpt-in-an-hour)
