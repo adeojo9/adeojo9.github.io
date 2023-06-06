@@ -7,7 +7,7 @@ description: >-
 
 # How to Create Your Own Private ChatGPT
 
-As technology continues to advance, communication between individuals also advances with it. The development of artificial intelligence (AI) has brought chat bots like ChatGPT into the mainstream, providing a new way for people to communicate with each other. While the convenience of ChatGPT has its advantages, it also poses a security risk. For a more secure communication, PrivateGPT offers an alternative, allowing you to create your own private Q\&A engine for safe, secure and private conversations.
+As technology continues to advance, communication between individuals also advances with it. The development of artificial intelligence (AI) has brought chat bots like ChatGPT into the mainstream, providing a new way for people to communicate with each other. While the convenience of ChatGPT has its advantages, it also poses a security risk. For a more secure communication, [PrivateGPT](https://online-data-science-adeojo.vercel.app/how-to-create-your-own-private-chatgpt) offers an alternative, allowing you to create your own private Q\&A engine for safe, secure and private conversations.
 
 ### Introduction
 
@@ -61,7 +61,7 @@ Microsoft Private ChatGPT is a chatbot service that is exclusively available to 
 
 ### Conclusion
 
-The development of Private ChatGPT has provided a reliable and secure platform for AI-powered communication. The importance of data privacy cannot be overlooked, and Private ChatGPT offers a level of privacy and security that ChatGPT cannot provide. The creation of your very own Private ChatGPT is easy, and it can benefit your business in various sectors. The future of Private ChatGPT is bright as it provides a solution that is adaptable, secure, and ever-evolving.
+The development of [Private ChatGPT](https://sites.google.com/view/data-science-notes-jack/how-to-create-your-own-private-chatgpt) has provided a reliable and secure platform for AI-powered communication. The importance of data privacy cannot be overlooked, and Private ChatGPT offers a level of privacy and security that ChatGPT cannot provide. The creation of your very own Private ChatGPT is easy, and it can benefit your business in various sectors. The future of Private ChatGPT is bright as it provides a solution that is adaptable, secure, and ever-evolving.
 
 > Further Readings:
 >

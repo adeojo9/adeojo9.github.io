@@ -16,7 +16,7 @@ Yes, it is possible to use ChatGPT offline by running a locally-hosted version o
 
 That is free, offline, and cross-platform Offline ChatGPT is not officially available for download. However, there are ChatGPT alternatives for PC that are free, offline, and cross-platform. Some of these include GPT4All and PrivateGPT. Users can download these alternative models and use them offline to train their own chatbot or get a similar experience as ChatGPT.
 
-### How to Use Offline ChatGPT on PC?
+### How to [Use Offline ChatGPT on PC?](https://sites.google.com/view/data-science-notes-jack/offline-chatgpt)
 
 How to operate a ChatGPT-like language model on your personal computer Operating a ChatGPT-like language model on your personal computer can enhance your experience with AI-based chat applications. In this article, we'll show you how to use an LLM locally and benefit from ChatGPT-like models on your personal computer.
 
@@ -26,7 +26,7 @@ Is ChatGPT closed?Can I download ChatGPT for offline use? Can you run a local ve
 
 ### Conclusion
 
-Offline ChatGPT is an excellent alternative for users who want to experience the benefits of AI-based chat applications even when they don't have access to an internet connection. In this article, we discussed what Offline ChatGPT is and how users can download ChatGPT alternative for PC that is free, offline, and cross-platform. We also showed users how to operate a ChatGPT-like language model on their personal computer. With these tips, you can enhance your experience with AI-based chat applications for your personal projects.
+[Offline ChatGPT](https://online-data-science-adeojo.vercel.app/offline-chatgpt-how-to-use-it) is an excellent alternative for users who want to experience the benefits of AI-based chat applications even when they don't have access to an internet connection. In this article, we discussed what Offline ChatGPT is and how users can download ChatGPT alternative for PC that is free, offline, and cross-platform. We also showed users how to operate a ChatGPT-like language model on their personal computer. With these tips, you can enhance your experience with AI-based chat applications for your personal projects.
 
 > Further Readings:
 >

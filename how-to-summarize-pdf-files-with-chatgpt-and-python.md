@@ -4,7 +4,7 @@
 
 ChatGPT is an AI-powered language generation tool based on OpenAI's GPT-2 language model. It is capable of generating high-quality summaries and content. In this article, we will be exploring how to use ChatGPT in combination with Python to summarize PDF files.
 
-The purpose of this article is to provide a comprehensive guide on how to summarize PDFs using ChatGPT and Python. We will cover everything from converting PDF to text, slicing the text into chunks, summarizing the chunks, merging the summaries, and generating content from the summary.
+The purpose of this article is to provide a comprehensive guide on how to [summarize PDFs using ChatGPT and Python](https://online-data-science-adeojo.vercel.app/how-to-summarize-pdf-files-with-chatgpt-and-python). We will cover everything from converting PDF to text, slicing the text into chunks, summarizing the chunks, merging the summaries, and generating content from the summary.
 
 ### Converting PDF to Text
 
@@ -112,7 +112,7 @@ There are a variety of AI tools available for summarizing PDF files, including C
 
 ### Conclusion
 
-In this article, we learned how to summarize PDF files using ChatGPT and Python. We covered everything from converting PDF to text, slicing the text into chunks, summarizing the chunks, merging the summaries, and generating content from the summary. We also explored other helpful tools that can aid in summarizing PDFs and answered some common questions. With this knowledge, readers can now summarize PDF files with ease.
+In this article, we learned how to [summarize PDF files using ChatGPT](https://sites.google.com/view/data-science-notes-jack/chatgpt-pdf-summarizer) and Python. We covered everything from converting PDF to text, slicing the text into chunks, summarizing the chunks, merging the summaries, and generating content from the summary. We also explored other helpful tools that can aid in summarizing PDFs and answered some common questions. With this knowledge, readers can now summarize PDF files with ease.
 
 > Further Readings:
 >

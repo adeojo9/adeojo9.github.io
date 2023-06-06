@@ -4,13 +4,13 @@ Artificial intelligence is continuously evolving and has now become a vital part
 
 ChatGPT (Generative Pre-trained Transformer 2) is a popular AI language model that has been used for various tasks, including chatbots, text generation, and sentiment analysis. However, relying solely on a proprietary solution like ChatGPT may not always be the best option. Fortunately, there are many open source alternatives to ChatGPT that can get the job done just as well, if not even better. In this comprehensive guide, we'll take a closer look at some of the most popular open source ChatGPT alternatives.
 
-### What Are Open Source ChatGPT Alternatives?
+### What Are [Open Source ChatGPT Alternatives](https://online-data-science-adeojo.vercel.app/open-source-chatgpt-alternatives-a-comprehensive-guide)?
 
 Before we dive into the specifics, let's first define what open source ChatGPT alternatives are. Essentially, these are AI models that are based on the same principles as ChatGPT but are free and open to the public to use, modify, and distribute. This means you can tailor the model to your specific needs, rather than being stuck with a one-size-fits-all solution.
 
 One benefit of [open-source ChatGPT alternatives](https://docs.kanaries.net/tutorials/ChatGPT/open-source-chatgpt-alternatives) is that they are highly customizable, which means they can be fine-tuned to perform tasks that are specific to an industry or use case. Moreover, these models are transparent, meaning that you can see exactly how they work and modify them if necessary. Finally, open source models are free to use, which is an excellent option for businesses or individuals who are unable or unwilling to pay for proprietary tools.
 
-### Top Open Source ChatGPT Alternatives
+### Top [Open Source ChatGPT Alternatives](https://sites.google.com/view/data-science-notes-jack/open-source-chatgpt-alternatives)
 
 #### LLaMa
 

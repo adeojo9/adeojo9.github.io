@@ -4,7 +4,7 @@ Are you looking for an intelligent assistant to help you with your writing needs
 
 ### Key Benefits of Using Conch AI
 
-If you're looking for an AI writing assistant that will give you the confidence to write with ease, Conch AI is the one for you. Some of the benefits of using Conch AI include:
+If you're looking for an AI writing assistant that will give you the confidence to write with ease, Conch AI is the one for you. Some of the benefits of using [Conch AI](https://online-data-science-adeojo.vercel.app/conch-ai-the-ultimate-ai-writing-assistant) include:
 
 * Developing better content writing skills
 * Enhancing the quality of your writing
@@ -21,7 +21,7 @@ Conch AI comes packed with features that will help you become a better writer. B
 
 #### Sentence and Paragraph Rewrites
 
-Conch AI comes with an advanced rewrite engine, which helps you adjust your content to sound more natural and authoritative. The feature comes in handy when working on large documents, saving you time and energy.
+[Conch AI](https://sites.google.com/view/data-science-notes-jack/conch-ai) comes with an advanced rewrite engine, which helps you adjust your content to sound more natural and authoritative. The feature comes in handy when working on large documents, saving you time and energy.
 
 #### Citation Generator
 

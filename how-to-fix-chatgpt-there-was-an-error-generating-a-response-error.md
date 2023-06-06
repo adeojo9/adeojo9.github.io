@@ -4,7 +4,7 @@
 
 Have you ever tried to converse with an AI model on ChatGPT, only to receive the frustrating error message "[There Was an Error Generating a Response](https://docs.kanaries.net/tutorials/ChatGPT/how-to-fix-there-was-an-error-generating-a-response-chatgpt)"? This error message can be a source of inconvenience as it interrupts the flow of conversation and can be a huge waste of time. Being met with an error message can also leave you feeling puzzled and unsure of why this is happening. In this article, we will explain reasons for this error and provide effective ways to fix it.
 
-### Reasons for "There Was an Error Generating a Response" on ChatGPT
+### Reasons for "[There Was an Error Generating a Response](https://online-data-science-adeojo.vercel.app/how-to-fix-chatgpt-there-was-an-error-generating-a-response-error)" on ChatGPT
 
 There are various reasons why this error message appears on ChatGPT. These reasons include:
 
@@ -64,7 +64,7 @@ ChatGPT notifies users of this error message when there is an issue with the pro
 
 #### How do you fix there was an error generating a response on ChatGPT?
 
-There are various ways to fix "There Was an Error Generating a Response" on ChatGPT. These methods include refreshing the page, shortening your input, giving more details in your input, waiting a few minutes, checking for server status, disabling proxy, and changing DNS.
+[There are various ways to fix "There Was an Error Generating a Response" on ChatGPT](https://sites.google.com/view/data-science-notes-jack/how-to-fix-chatgpt-there-was-an-error-generating-a-response-error). These methods include refreshing the page, shortening your input, giving more details in your input, waiting a few minutes, checking for server status, disabling proxy, and changing DNS.
 
 ### Conclusion
 

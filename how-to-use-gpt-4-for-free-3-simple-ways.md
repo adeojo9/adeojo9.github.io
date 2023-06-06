@@ -31,7 +31,7 @@ There are several third-party websites where you can access GPT-4 for free. Here
 
 ## Conclusion
 
-In conclusion, you now have three simple methods to use GPT-4 for free. With ChatGPT 4, Microsoft Account, or third-party websites, you can now experience the power of GPT-4 without spending any money. Remember, there are always ways to explore and learn new things without breaking the bank. So, go ahead and start experimenting with GPT-4 today!
+In conclusion, you now have three simple methods to [use GPT-4 for free](https://online-data-science-adeojo.vercel.app/how-to-use-gpt-4-for-free-3-simple-ways). With ChatGPT 4, Microsoft Account, or third-party websites, you can now experience the power of GPT-4 without spending any money. Remember, there are always ways to explore and learn new things without breaking the bank. So, go ahead and start [experimenting with GPT-4 for free](https://sites.google.com/view/data-science-notes-jack/how-to-use-gpt-4-for-free) today!
 
 > Further Readings:
 >

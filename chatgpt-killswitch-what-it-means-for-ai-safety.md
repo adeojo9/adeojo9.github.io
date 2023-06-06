@@ -8,11 +8,11 @@ The ChatGPT language model, created by OpenAI, has made waves in the field of ar
 
 The dangers associated with advanced AI technology are numerous and varied, ranging from potential job loss to unethical decision-making and even catastrophic events. As AI continues to progress, there is a growing need for safety mechanisms that can ensure responsible use and prevent unintended consequences.
 
-In the case of ChatGPT, a killswitch would provide a mechanism to shut down the system in the event of a malfunction or misuse. This could prevent severe damage in an attempt to control or prevent catastrophic events, especially as the model's responses can become increasingly unpredictable.
+In the case of [ChatGPT, a killswitch](https://online-data-science-adeojo.vercel.app/chatgpt-killswitch-what-it-means-for-ai-safety) would provide a mechanism to shut down the system in the event of a malfunction or misuse. This could prevent severe damage in an attempt to control or prevent catastrophic events, especially as the model's responses can become increasingly unpredictable.
 
 ### The Role of a Killswitch Engineer
 
-The job of a ChatGPT killswitch engineer is crucial to prevent unintended consequences of AI misuse. This role entails designing and implementing safety mechanisms and developing emergency protocols to ensure responsible use and mitigate disasters. The role involves a deep understanding of the implications of AI technology and the potential harm associated with it.
+The job of a [ChatGPT killswitch engineer](https://sites.google.com/view/data-science-notes-jack/chatgpt-killswitch) is crucial to prevent unintended consequences of AI misuse. This role entails designing and implementing safety mechanisms and developing emergency protocols to ensure responsible use and mitigate disasters. The role involves a deep understanding of the implications of AI technology and the potential harm associated with it.
 
 The role of a killswitch engineer is becoming increasingly sought after as the dangers associated with AI technology increase. This means that individuals with the necessary qualifications and skills have significant career growth and development opportunities in the field.
 

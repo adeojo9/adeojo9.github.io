@@ -8,7 +8,7 @@ In today's digital age, data is king. We generate and collect enormous amounts o
 
 ### Importance of AI Data Analytics
 
-AI data analytics is becoming increasingly important in today's world because we generate more data than ever before. The ability to analyze this data is essential to gaining insights and making informed decisions. Leveraging AI to analyze data means we can do so more quickly and accurately than ever before, enabling us to gain insights and make data-driven decisions in real time.
+[AI data analytics](https://sites.google.com/view/data-science-notes-jack/ai-data-analytics) is becoming increasingly important in today's world because we generate more data than ever before. The ability to analyze this data is essential to gaining insights and making informed decisions. Leveraging AI to analyze data means we can do so more quickly and accurately than ever before, enabling us to gain insights and make data-driven decisions in real time.
 
 ### Benefits of AI Data Analytics
 
@@ -16,7 +16,7 @@ The benefits of AI data analytics are numerous. AI tools can process data faster
 
 ### Top AI Data Analytics Tools
 
-There are many AI data analytics tools available on the market today. Here are some of the most popular and powerful:
+There are many [AI data analytics tools](https://online-data-science-adeojo.vercel.app/ai-data-analytics-transforming-the-way-we-analyze-data) available on the market today. Here are some of the most popular and powerful:
 
 * Tableau: A popular data visualization tool that allows users to create interactive and visually appealing charts, graphs, and dashboards.
 * Polymer: A natural language processing and machine learning tool that can parse unstructured data such as text and speech to extract insights.

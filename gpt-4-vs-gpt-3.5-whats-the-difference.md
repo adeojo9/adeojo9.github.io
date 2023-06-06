@@ -12,7 +12,7 @@ GPT-3.5 is a text-based language model that can generate human-like text by pred
 
 For example, in the context of recipe creation, GPT-4 can take an image of a dish and generate a recipe. It's a great enhancement over GPT-3.5 because it can combine image and text to generate more comprehensive and visually appealing recipes.
 
-### Key Differences between GPT-3.5 and GPT-4
+### Key [Differences between GPT-3.5 and GPT-4](https://oluwaseuns-data-notes.gitbook.io/chatgpt-tips/gpt-4-vs-gpt-3.5-whats-the-difference)
 
 The primary [difference between GPT-3.5 and GPT-4](https://docs.kanaries.net/articles/compare-gpt-4-gpt-3) is their capabilities. GPT-4 is smarter and can handle longer prompts with fewer errors. In addition, it's much more creative than GPT-3.5, generating stories, poems, or essays that feel like they were created by a human writer. On the other hand, GPT-3.5 focuses on generating human-like text that doesn't exceed expectations or creativity levels.
 
@@ -22,7 +22,7 @@ Another difference in the capabilities of GPT-3.5 and GPT-4 is the length of pro
 
 GPT-4's multi-modal capabilities are what sets it apart from GPT-3.5. It can accept both text and visual inputs, which means it can generate more detailed information that combines images and text. For example, GPT-4 can translate text or summarize text while incorporating images into its output, making it a more comprehensive and visually appealing output.
 
-### Use Cases for GPT-4 vs GPT-3.5
+### Use Cases for [GPT-4 vs GPT-3.5](https://online-data-science-adeojo.vercel.app/gpt-4-vs-gpt-3.5-whats-the-difference)
 
 GPT-4 can be more reliable, creative, and nuanced than GPT-3.5, making it an excellent choice for more advanced uses. For example, GPT-4 could be used in a sales chatbot, where it can understand an image of a product and answer questions about it. It can also be used in social media analytics, where it can understand image-based posts and generate insights, or even assist in content generation by creating ideation materials like editorial calendars or image suggestions around engagement insights.
 

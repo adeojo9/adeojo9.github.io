@@ -10,7 +10,7 @@ ChatGPT, like most AI language models, is trained on vast amounts of text data t
 
 By using certain prompts and approaches, you can get ChatGPT to generate responses that are more unpredictable and engaging, opening up new possibilities for AI language modeling.
 
-### Top ChatGPT Jailbreak Prompts
+### Top [ChatGPT Jailbreak Prompts](https://sites.google.com/view/data-science-notes-jack/chatgpt-jailbreak-prompts)
 
 There are several different methods and [prompts that you can use to jailbreak ChatGPT](https://docs.kanaries.net/articles/chatgpt-jailbreak-prompt). Here are five of the most popular approaches:
 
@@ -34,7 +34,7 @@ The evil confident method involves feeding ChatGPT prompts that are deliberately
 
 There are countless other prompts and approaches that you can use to jailbreak ChatGPT, including reverse-psychology, word-association, and more. The key is to be creative and open-minded when interacting with the model.
 
-### How to Jailbreak ChatGPT with Prompts
+### How to [Jailbreak ChatGPT with Prompts](https://online-data-science-adeojo.vercel.app/what-are-the-best-chatgpt-jailbreak-prompts)
 
 Now that you have an idea of the different prompts and approaches you can use, let's dive into how to jailbreak ChatGPT with them.
 

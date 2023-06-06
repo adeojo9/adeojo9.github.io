@@ -24,7 +24,7 @@ Overall, LlamaIndex makes it easier and faster to develop LLM apps. By providing
 
 ### Uses of LlamaIndex
 
-LlamaIndex can be used for a wide variety of AI development projects. Some of the most common uses include:
+[LlamaIndex](https://online-data-science-adeojo.vercel.app/llamaindex-a-powerful-toolkit-for-building-llm-apps) can be used for a wide variety of AI development projects. Some of the most common uses include:
 
 * Building chatbots based on machine learning models
 * Integrating LLMs with external data sources
@@ -35,7 +35,7 @@ LlamaIndex can be used for a wide variety of AI development projects. Some of th
 
 Here are some frequently asked questions about LlamaIndex:
 
-1. What is LlamaIndex? LlamaIndex is a "data framework" designed to connect LLMs with external data. It enables the creation of chatbots based on machine learning models, making it a powerful tool for building LLM apps.
+1. What is [LlamaIndex](https://sites.google.com/view/data-science-notes-jack/llamaindex)? LlamaIndex is a "data framework" designed to connect LLMs with external data. It enables the creation of chatbots based on machine learning models, making it a powerful tool for building LLM apps.
 2. Who owns LlamaIndex? LlamaIndex is developed by Jerry Liu and is available on GitHub. Its documentation is available on the LlamaIndex blog and on readthedocs.
 3. What is GPT Index? GPT Index is a machine learning model that can be integrated with LlamaIndex to provide more powerful AI development tools.
 4. What is the storage context in LlamaIndex? The storage context in LlamaIndex is a tool that allows you to store data and connect it to your LLMs, enhancing their capabilities.

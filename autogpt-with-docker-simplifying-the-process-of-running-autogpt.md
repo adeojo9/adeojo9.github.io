@@ -6,7 +6,7 @@ In recent years, natural language processing (NLP) has been rapidly developing, 
 
 AutoGPT is an open-source project built on top of GPT-4 that showcases its capabilities. It is an experimental application that can create language models capable of generating coherent and contextually relevant text. AutoGPT allows researchers and developers to experiment with GPT-4's capabilities and is a valuable tool in NLP research and development.
 
-However, running AutoGPT can be a complex process, with various dependencies and libraries involved. Moreover, as AutoGPT requires a lot of computational power, running it on local machines can be challenging. That is why, if you're looking for a simpler way to run AutoGPT, you should consider using Docker.
+However, running AutoGPT can be a complex process, with various dependencies and libraries involved. Moreover, as AutoGPT requires a lot of computational power, running it on local machines can be challenging. That is why, if you're looking for a simpler way to run AutoGPT, you should consider [using Docker with AutoGPT](https://online-data-science-adeojo.vercel.app/autogpt-with-docker-simplifying-the-process-of-running-autogpt).
 
 Docker is an open-source platform that allows developers to build, ship, and run applications in containers. It provides a virtual environment that ensures consistency across different environments and simplifies deployment. In this article, we will guide you through everything you need to know about using AutoGPT with Docker.
 
@@ -122,7 +122,7 @@ No, Docker will not install automatically while using AutoGPT. You have to insta
 
 ### Conclusion
 
-Using AutoGPT with Docker can simplify the process of running AutoGPT. Docker creates a virtual environment that ensures consistency across different environments and simplifies deployment. If you're new to Docker, make sure to follow the step-by-step guide provided in this article. However, it is important to note that while Docker makes the process easier, it does not eliminate the complexities of working with AutoGPT. It is still an experimental application, and its capabilities may require additional customization or modification.
+[Using AutoGPT with Docker](https://sites.google.com/view/data-science-notes-jack/autogpt-with-docker) can simplify the process of running AutoGPT. Docker creates a virtual environment that ensures consistency across different environments and simplifies deployment. If you're new to Docker, make sure to follow the step-by-step guide provided in this article. However, it is important to note that while Docker makes the process easier, it does not eliminate the complexities of working with AutoGPT. It is still an experimental application, and its capabilities may require additional customization or modification.
 
 > Further Readings:
 >

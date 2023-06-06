@@ -8,7 +8,7 @@ ChatGPT is an AI-powered conversational tool developed by OpenAI. It uses the GP
 
 The tool has been used by businesses to enhance customer support, by individuals to generate creative writing, and even by language learners to practice their language skills. However, due to its immense popularity, ChatGPT can sometimes encounter technical errors like the "ChatGPT is at capacity" error.
 
-### How to Fix ChatGPT is at Capacity Error:  8 Methods
+### [How to Fix ChatGPT is at Capacity Error](https://online-data-science-adeojo.vercel.app/how-to-fix-chatgpt-is-at-capacity-right-now-error):  8 Methods
 
 But worry not, we have got you covered with these eight [methods to fix the ChatGPT is at capacity error](https://docs.kanaries.net/tutorials/ChatGPT/chat-gpt-is-at-capacity):
 
@@ -44,7 +44,7 @@ If the error persists, try using a different OpenAI API. While ChatGPT is undoub
 
 If none of the above methods work, you can try using ChatGPT alternatives like Bing AI or Google Barge. While these tools may not match ChatGPT in terms of accuracy, they can still provide you with a viable option for generating conversational responses.
 
-In conclusion, encountering errors like "ChatGPT is at capacity" is not uncommon. However, with the methods mentioned above, you can quickly fix the error and use ChatGPT seamlessly. Remember to always keep a backup plan in the form of alternative tools, just in case ChatGPT encounters issues that cannot be resolved immediately.
+In conclusion, [encountering errors like "ChatGPT is at capacity](https://sites.google.com/view/data-science-notes-jack/how-to-fix-chatgpt-is-at-capacity-right-now-error)" is not uncommon. However, with the methods mentioned above, you can quickly fix the error and use ChatGPT seamlessly. Remember to always keep a backup plan in the form of alternative tools, just in case ChatGPT encounters issues that cannot be resolved immediately.
 
 > Further Readings:
 >

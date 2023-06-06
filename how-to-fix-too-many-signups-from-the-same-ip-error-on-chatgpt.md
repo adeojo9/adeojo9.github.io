@@ -9,7 +9,7 @@ description: >-
 
 If you have encountered the ["Too many signups from the same IP" error](https://docs.kanaries.net/tutorials/ChatGPT/solve-too-many-signups-from-the-same-ip-chatgpt) when trying to sign up for ChatGPT, it means that someone has tried to access the platform multiple times using the same internet connection. This error message is a security precaution implemented by OpenAI to prevent spam and fraudulent activities.
 
-To fix this error, here are some solutions you can try:
+To fix this error, here are [some solutions you can try to fix the too many signups from the same Ip error](https://online-data-science-adeojo.vercel.app/how-to-fix-too-many-signups-from-the-same-ip-error-on-chatgpt).
 
 ### 1. Use a Different Network
 
@@ -31,7 +31,7 @@ If you've tried signing up multiple times using the same IP address, wait for a 
 
 If none of the above solutions work for you, contact the OpenAI Support Team for further assistance.
 
-In conclusion, the "Too many signups from the same IP" error can be frustrating, but there are solutions available to fix it. Try different methods until you find one that works for you. Good luck!
+In conclusion, the "[Too many signups from the same IP" error](https://sites.google.com/view/data-science-notes-jack/how-to-fix-too-many-signups-from-the-same-ip-error-on-chatgpt) can be frustrating, but there are solutions available to fix it. Try different methods until you find one that works for you. Good luck!
 
 > Further Readings:
 >

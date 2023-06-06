@@ -40,11 +40,11 @@ Using a web interface is another way of generating text using GPT-J. Some platfo
 
 ### Benefits of Using GPT-J
 
-There are several benefits to using GPT-J, including:
+There are several benefits to using [GPT-J](https://online-data-science-adeojo.vercel.app/gpt-j-what-is-it-and-how-to-use-it), including:
 
 #### Open Source
 
-GPT-J is open source, which means that anyone can use it and modify it. This feature makes it easy for developers to experiment and tweak GPT-J to suit their needs.
+GPT-J is open source, which means that anyone can use it and modify it. This feature makes it easy for developers to experiment and tweak [GPT-J](https://sites.google.com/view/data-science-notes-jack/gpt-j) to suit their needs.
 
 #### Large Language Model
 

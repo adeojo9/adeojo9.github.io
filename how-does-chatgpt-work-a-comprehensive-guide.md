@@ -8,7 +8,7 @@ ChatGPT is an advanced AI chatbot that can generate human-like responses to natu
 
 The importance of ChatGPT lies in its potential to enhance user engagement and interaction in various domains, such as customer service, healthcare, and education. With its ability to generate human-like responses, ChatGPT has the potential to revolutionize the way we interact with machines and the future of customer service.
 
-### How Does ChatGPT Work?
+### [How Does ChatGPT Work](https://online-data-science-adeojo.vercel.app/how-does-chatgpt-work-a-comprehensive-guide)?
 
 ChatGPT works by breaking down natural language inputs into its constituent parts, analyzing sentence structures and components, and generating human-like responses. The chatbot utilizes a vast knowledge repository to generate relevant and accurate responses. Below is a more detailed breakdown of [how ChatGPT works](https://docs.kanaries.net/tutorials/ChatGPT/how-does-chatgpt-work):
 
@@ -34,7 +34,7 @@ ChatGPT's model architecture is composed of language models such as Language Mod
 
 #### Technical Details of ChatGPT's Model Architecture
 
-ChatGPT uses a combination of pre-trained and fine-tuned language models to understand user inputs. The pre-training phase involves training the chatbot on a large corpus of text to develop a general understanding of the language. During the fine-tuning phase, ChatGPT is trained on domain-specific texts, making it more proficient in generating accurate responses.
+[ChatGPT](https://sites.google.com/view/data-science-notes-jack/how-does-chatgpt-work) uses a combination of pre-trained and fine-tuned language models to understand user inputs. The pre-training phase involves training the chatbot on a large corpus of text to develop a general understanding of the language. During the fine-tuning phase, ChatGPT is trained on domain-specific texts, making it more proficient in generating accurate responses.
 
 #### Natural Language Processing Models of ChatGPT, LLMs and Transformers
 

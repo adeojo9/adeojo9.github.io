@@ -1,6 +1,6 @@
 # How Many Questions Can You Ask ChatGPT in an Hour?
 
-## How Many Questions Can You Ask ChatGPT in an Hour: Explained
+## How [Many Questions Can You Ask ChatGPT in an Hour](https://sites.google.com/view/data-science-notes-jack/how-many-questions-can-you-ask-chatgpt-in-an-hour): Explained
 
 ### Introduction
 
@@ -50,7 +50,7 @@ Some versions of ChatGPT are free, while others require a subscription.
 
 ### Conclusion
 
-In conclusion, ChatGPT is a powerful communication tool that can efficiently answer user inquiries through AI and NLP technology. Its ability to answer between 20 to 50 questions within an hour showcases its efficiency. However, to get the most out of ChatGPT, it is necessary to keep the questions concise and straightforward. By optimizing the questions and taking into account the various factors that affect ChatGPT's capabilities, it can serve as an effective conversational tool.
+In conclusion, ChatGPT is a powerful communication tool that can efficiently answer user inquiries through AI and NLP technology. Its ability to [answer between 20 to 50 questions within an hour](https://online-data-science-adeojo.vercel.app/how-many-questions-can-you-ask-chatgpt-in-an-hour) showcases its efficiency. However, to get the most out of ChatGPT, it is necessary to keep the questions concise and straightforward. By optimizing the questions and taking into account the various factors that affect ChatGPT's capabilities, it can serve as an effective conversational tool.
 
 > Further Readings:
 >
